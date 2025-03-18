@@ -22,7 +22,7 @@ The project implements the card game Blackjack, where the server manages the gam
 - After receiving the server's IP address, the client establishes a TCP connection to the server and displays the information
 - The server asks the client for a name
 - The server then asks the client to choose one of three options:
-  Welcome, <name>! Choose an option: 1. Play Blackjack 2. View Rankings 3. Exit
+  Welcome <name>! Choose an option: 1. Play Blackjack 2. View Rankings 3. Exit
 - Depending on the choice made by the player, the server proceeds to the game, shows the rankings, or terminates the client.
 
 ## Getting Started
